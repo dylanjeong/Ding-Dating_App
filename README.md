@@ -47,6 +47,16 @@ Start the client server
   cd client
   npm run dev
 ```
+Start the server
+```bash
+  cd server
+  npm start
+```
+Start the socket server
+```bash
+  cd socket
+  npm start
+```
 ## Tech Stack
 
 **Client:** React, CSS, Axios, simple-peer, Socket.io-client
