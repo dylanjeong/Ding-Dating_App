@@ -11,15 +11,16 @@ Introducing Ding, the innovative dating app that redefines online connections. W
 
 ## Screenshots
 
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-2240673aa0.webp)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-8b102836ca.png)
-![App Screenshot](https://im5.ezgif.com/tmp/ezgif-5-f7b813f752.png)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-8028101a06.png)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-2d55764c7c.png)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-189d403a8b.png)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-5271936d78.png)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-de35a8b026.png)
-![App Screenshot](https://im3.ezgif.com/tmp/ezgif-3-599dc822c8.png)
+<img width="1174" alt="1" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/803e4388-4c98-43f1-87c3-7b109c9ae054">
+<img width="1175" alt="2" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/7163b631-e205-4771-963c-dda5b30d8668">
+<img width="941" alt="3" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/4c611b5e-7249-473b-919a-ceb3b7a221db">
+<img width="1171" alt="4" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/ba2f2c53-ad68-493d-bfee-c86319230688">
+<img width="1179" alt="5" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/e524d8c7-aef3-436f-935e-4312d453c3b0">
+<img width="942" alt="6" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/e0d78e74-407c-44d7-96c7-a3097643c345">
+<img width="936" alt="7" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/d45d749b-bad7-46ae-8d99-b511fe76ead8">
+<img width="944" alt="8" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/4e7134f7-efb2-4020-82f4-d05f3e847699">
+<img width="943" alt="9" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/94b299a3-35ec-4664-a8ae-36b15d13782b">
+<img width="930" alt="Screenshot 2023-09-07 at 12 04 17 AM" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/8f10314a-7f3d-4885-8a13-b3192c6d18b6">
 
 
 
