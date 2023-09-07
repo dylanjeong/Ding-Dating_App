@@ -1,0 +1,31 @@
+.video-player {
+  width: 40vw;
+  background-color: black;
+  height: 70%;
+  border-radius: 20px;
+  margin-top: 5%;
+
+  &__other-video {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(228, 228, 228);
+    border-radius: 20px;
+    display: flex;
+    align-items: end;
+  }
+  &__cam {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+    position: relative;
+  }
+  &__my-video {
+    width: 10%;
+    height: 15%;
+    background-color: black;
+    border-radius: 20px;
+    position: absolute;
+    margin-left: 0.5rem;
+  } 
+}

@@ -1,0 +1,29 @@
+.chat-display {
+  height: 83vh;
+  overflow-y: auto;
+  background-color: rgb(220, 220, 220);
+  border-radius: 20px;
+  padding: 1rem;
+  margin-top: -1rem;
+  position: relative;
+  &__default-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 1rem;
+    border-radius: 2rem;
+    margin: auto;
+    margin-top: 10%;
+  }
+  &__default-line {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+  }
+  &__wrapper {
+    width: 10%;
+  }
+  }

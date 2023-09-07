@@ -1,0 +1,118 @@
+.start {
+  &__title {
+    width: 80%;
+    margin: 3rem auto 2rem auto;
+    padding-bottom: 1rem;
+    border-bottom: 1px rgb(162, 162, 162) solid;
+  }
+  &__form {
+    width: 80%;
+    margin: auto;
+  }
+  &__first-half {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  }
+  &__form-first {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 2rem;
+  }
+  &__img-container {
+    border-radius: 30px;
+    width: 100%;
+    height: 45vh;
+
+  }
+  &__label {
+    font-weight: 600;
+    font-size: 0.8125rem;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+  }
+  &__container {
+    width: 30%;
+  }
+  &__input {
+    border-radius: 20px;
+    outline: none;
+    border: 1px #bdc5d5 solid;
+    padding: 0.5rem 1rem;
+    background-color: white;
+  }
+  &__profile-img {
+    display: flex;
+    flex-direction: column;
+  }
+  &__img {
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    object-fit: cover;
+  }
+
+  &__error-container {
+    height: 1.15rem;
+  }
+  &__error-box {
+    display: flex;
+    align-items: center;
+  }
+  &__error-icon {
+    width: 1rem;
+    margin-right: 0.25rem;
+  }
+  &__error-message {
+    color: #c94515;
+    font-size: 0.75rem;
+  }
+  &__birthday {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 0.5rem;
+  }
+  &__birthday-input {
+    width: 30%;
+  }
+  &__gender, &__gender-pref {
+
+    height: 4.5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+  }
+  &__radio-label {
+    background-color: white;
+    padding: 1rem 2rem;
+    border-radius: 20px;
+    font-weight: 600;
+  }
+  &__submit-btn {
+    padding: 0.7rem 3rem;
+    border: none;
+    background-color: white;
+    border-radius: 30px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: block;
+    margin: 2rem 0 4rem auto;
+  }
+}
+.error {
+  border: 1px #c94515 solid;
+}
+
+.none {
+  display: none;
+}
+input[type="radio"] {
+  display: none;
+  &:checked + label {
+    background-color: rgb(235, 206, 218);
+    font-size: 1.3rem;
+  }  
+  }

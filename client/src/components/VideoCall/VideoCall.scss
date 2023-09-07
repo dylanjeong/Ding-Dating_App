@@ -1,0 +1,29 @@
+.video-call {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__container {
+    width: 45vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    height: 70vh;
+    border-radius: 30px;
+  }
+  &__button {
+    width: 5rem;
+    height: 5rem;
+    border: none;
+    background-color: transparent;
+    margin-top: 2rem;
+  }
+  &__img {
+    width: 100%;
+  }
+}
+
