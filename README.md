@@ -37,6 +37,11 @@ Install server with npm
   cd server
   npm i
 ```
+Install socket server with npm
+```bash
+  cd socket
+  npm i
+```
 Start the client server
 ```bash
   cd client
