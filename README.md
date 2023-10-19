@@ -20,7 +20,7 @@ Introducing Ding, the innovative dating app that redefines online connections. W
 <img width="936" alt="7" src="/screeshots/7.png">
 <img width="944" alt="8" src="/screeshots/8.png">
 <img width="943" alt="9" src="/screeshots/9.png">
-<img width="930" alt="10" src="/screeshots/10.png">
+<img width="930" alt="12" src="/screeshots/12.png">
 <img width="930" alt="11" src="/screeshots/11.png">
 
 
