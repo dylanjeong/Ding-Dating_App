@@ -11,7 +11,7 @@ Introducing Ding, the innovative dating app that redefines online connections. W
 
 ## Screenshots
 
-<img width="1174" alt="1" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/803e4388-4c98-43f1-87c3-7b109c9ae054">
+<img width="1174" alt="1" src="/screeshots/8.png">
 <img width="1175" alt="2" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/7163b631-e205-4771-963c-dda5b30d8668">
 <img width="941" alt="3" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/4c611b5e-7249-473b-919a-ceb3b7a221db">
 <img width="1171" alt="4" src="https://github.com/dylanjeong/capstone-ding/assets/137814949/ba2f2c53-ad68-493d-bfee-c86319230688">
